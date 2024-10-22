@@ -8,25 +8,25 @@
     },
     {
       "text": "GitHub",
-      "link": "https://github.com/dqzboy/Docker-Proxy",
+      "link": "https://github.com/LengmoAngel/Docker-Proxy",
       "newTab": true
     }
   ],
   "adImages": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/dqzboy/Blog-Image/BlogCourse/reacknerd-ad.png",
-      "link": "https://my.racknerd.com/aff.php?aff=12151"
+      "url": "https://moepigeon.com/wp-content/uploads/2022/03/baimianxiao-scaled.jpg",
+      "link": "https://moepigeon.com/"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/dqzboy/Blog-Image/BlogCourse/racknerd_vps.png",
-      "link": "https://my.racknerd.com/aff.php?aff=12151"
+      "url": "https://moepigeon.com/wp-content/uploads/2022/03/baimianxiao-scaled.jpg",
+      "link": "https://moepigeon.com/"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/dqzboy/Blog-Image/BlogCourse/docker-proxy-vip.png",
-      "link": "https://www.dqzboy.com/17834.html"
+      "url": "https://moepigeon.com/wp-content/uploads/2022/03/baimianxiao-scaled.jpg",
+      "link": "https://moepigeon.com/"
     }
   ],
-  "proxyDomain": "dqzboy.github.io",
+  "proxyDomain": "https://github.com/LengmoAngel/Docker-Proxy",
   "monitoringConfig": {
     "notificationType": "telegram",
     "webhookUrl": "",
